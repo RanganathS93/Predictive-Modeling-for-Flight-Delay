@@ -12,4 +12,4 @@ Objective:
 
 My goal is to construct additional meta-variables from the Flight_history.csv dataset, append them to Flight_test.csv, and build a predictive model to determine the likelihood of flight delays.
 
-![image](https://github.com/RanganathS93/Predictive-Modeling-for-Flight-Delay/assets/93627562/a638d6ac-da33-4ecb-a3fc-46001b1abf84)
+
